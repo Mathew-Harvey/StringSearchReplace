@@ -1,0 +1,14 @@
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\bin\Debug\net7.0\StringSearchReplace.exe
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\bin\Debug\net7.0\StringSearchReplace.deps.json
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\bin\Debug\net7.0\StringSearchReplace.runtimeconfig.json
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\bin\Debug\net7.0\StringSearchReplace.dll
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\bin\Debug\net7.0\StringSearchReplace.pdb
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.AssemblyInfoInputs.cache
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.AssemblyInfo.cs
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.csproj.CoreCompileInputs.cache
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.dll
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\refint\StringSearchReplace.dll
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.pdb
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\StringSearchReplace.genruntimeconfig.cache
+C:\Users\mathe\dev\StringSearchReplace\StringSearchReplace\obj\Debug\net7.0\ref\StringSearchReplace.dll

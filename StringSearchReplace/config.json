@@ -1,0 +1,24 @@
+{
+    "Replacements": [
+      {
+        "Key": "RadKey",
+        "SearchValue": "string1",
+        "ReplacementValue": "QAVessel"
+      },
+      {
+        "Key": "MatsDeeepKey",
+        "SearchValue": "DeepStringWith/",
+        "ReplacementValue": "MarineStreamQA"
+      },
+      {
+        "Key": "*",
+        "SearchValue": "StringCSVSlash/",
+        "ReplacementValue": "NEWStringCSVSlash/"
+      },
+      {
+        "Key": "RadKey",
+        "SearchValue": "QAVessel",
+        "ReplacementValue": "FUCKYES"
+      }
+    ]
+  }
